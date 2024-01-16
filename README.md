@@ -1,2 +1,2 @@
 # Assignment2Part-B
-https://games2024.itch.io/assignment-2-part-2
+[Play the game here](https://games2024.itch.io/assignment-2-part-2)
